@@ -9,6 +9,7 @@ HTML5 CSS3 Bootstrap
 
 <h3>Preview<h3>
 
-![CryptoVerse.gif]
+![](CryptoVerse.gif)
+
 
 
